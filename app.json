@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "Madlena",
+   "icon": "./icon.png",
+   "version": "1.0.0",
+   "slug": "rn-wc-store",
+   "sdkVersion": "32.0.0",
+   "ios": {
+     "bundleIdentifier": "com.yourcompany.yourappname"
+   },
+   "android": {
+     "package": "com.yourcompany.yourappname"
+   }
+  }
+}
